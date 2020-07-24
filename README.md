@@ -1,4 +1,4 @@
-![Rust](https://github.com/gowthamgutha/rust-rocket/workflows/Rust/badge.svg?event=workflow_run)
+![Rust](https://github.com/gowthamgutha/rust-rocket/workflows/Rust/badge.svg)
 
 # rust-rocket
 Practice examples of rust rocket
